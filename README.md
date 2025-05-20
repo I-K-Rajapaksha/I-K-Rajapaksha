@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm M.I.K.Rajapaksha</h1>
 <h3 align="center">"Aspiring Software Engineer | Passionate about Full-Stack Development & Smart Systems | BSc (Hons) in Software Engineering @ NSBM"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-k-rajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="i-k-rajapaksha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=i-k-rajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="i-k-rajapaksha" /> </p>
 
 - 🔭 I’m currently working on **Townships Development of Greater Colombo Urban Transport Development Project (3K Project)**
 
